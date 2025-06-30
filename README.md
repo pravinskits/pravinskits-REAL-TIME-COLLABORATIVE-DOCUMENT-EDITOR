@@ -22,3 +22,5 @@ The server listens on port 3000, enabling collaborative editing where multiple u
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/59d1b1e2-8682-4f8f-a9c7-715bfd97f3b7)
+
